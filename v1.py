@@ -1,3 +1,12 @@
+"""
+This is a module that implements a first concept for how to create a network specifically for knn
+
+The concept here is to learn to create a key with respect to other keys that have already
+been entered.
+
+Note, the concepts here have for the time being been abandoned in favor of the code in omniglot
+
+"""
 import tensorflow as tf
 from tensorflow.python import debug as tf_debug
 import numpy as np
